@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Excello/static/css/main.4be63b35.chunk.css",
+    "main.js": "/Excello/static/js/main.98b775f0.chunk.js",
+    "main.js.map": "/Excello/static/js/main.98b775f0.chunk.js.map",
+    "runtime-main.js": "/Excello/static/js/runtime-main.65cfb820.js",
+    "runtime-main.js.map": "/Excello/static/js/runtime-main.65cfb820.js.map",
+    "static/js/2.127d20eb.chunk.js": "/Excello/static/js/2.127d20eb.chunk.js",
+    "static/js/2.127d20eb.chunk.js.map": "/Excello/static/js/2.127d20eb.chunk.js.map",
+    "index.html": "/Excello/index.html",
+    "static/css/main.4be63b35.chunk.css.map": "/Excello/static/css/main.4be63b35.chunk.css.map",
+    "static/js/2.127d20eb.chunk.js.LICENSE.txt": "/Excello/static/js/2.127d20eb.chunk.js.LICENSE.txt",
+    "static/media/homeone.af5b5a44.jpg": "/Excello/static/media/homeone.af5b5a44.jpg",
+    "static/media/hometwo.988788f4.jpg": "/Excello/static/media/hometwo.988788f4.jpg",
+    "static/media/imagefive.2bc4cf73.jpg": "/Excello/static/media/imagefive.2bc4cf73.jpg",
+    "static/media/imagefour.af5b5a44.jpg": "/Excello/static/media/imagefour.af5b5a44.jpg",
+    "static/media/imageone.2f165720.jpg": "/Excello/static/media/imageone.2f165720.jpg",
+    "static/media/imagethree.240cad6a.jpg": "/Excello/static/media/imagethree.240cad6a.jpg",
+    "static/media/imagetwo.96bfef94.jpg": "/Excello/static/media/imagetwo.96bfef94.jpg",
+    "static/media/infoone.4ea29747.jpg": "/Excello/static/media/infoone.4ea29747.jpg",
+    "static/media/infotwo.e87ef5c2.jpg": "/Excello/static/media/infotwo.e87ef5c2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65cfb820.js",
+    "static/js/2.127d20eb.chunk.js",
+    "static/css/main.4be63b35.chunk.css",
+    "static/js/main.98b775f0.chunk.js"
+  ]
+}
